@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+Xemnas: https://anilist.co/user/Xemnas/
 
-You can use the [editor on GitHub](https://github.com/Anilisti/anilista.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+LAEM il Senza Nome: https://anilist.co/user/LAEM/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Giuseppe Tartaglione: https://anilist.co/user/Darax/
 
-### Markdown
+Roccobot: https://anilist.co/user/Roccobot/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Alexander: https://anilist.co/user/Kiritsugu/
 
-```markdown
-Syntax highlighted code block
+Abaddon: https://anilist.co/user/abaddon/
 
-# Header 1
-## Header 2
-### Header 3
+Sora: https://anilist.co/user/gyrthil/
 
-- Bulleted
-- List
+Luca Colico: https://anilist.co/user/zLeSshuhn/
 
-1. Numbered
-2. List
+Alessandro: https://anilist.co/user/Eru95/
 
-**Bold** and _Italic_ and `Code` text
+Giuseppe: https://anilist.co/user/Giubs/
 
-[Link](url) and ![Image](src)
-```
+Simone Lombardo: https://anilist.co/user/simonelombardo/
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Leonardo Colico: https://anilist.co/user/leonardocolico/
 
-### Jekyll Themes
+Benny: https://anilist.co/user/Ggwppino/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Anilisti/anilista.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Andrea D.: https://anilist.co/user/akaDry/
 
-### Support or Contact
+Hiro: https://anilist.co/user/CrafterHiro/
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Tuxdere: https://anilist.co/user/tuxdere
+
+Merliin: https://anilist.co/user/Merliin/
+
+Betta: https://anilist.co/user/Betta
+
+Mattia: https://anilist.co/user/pagia/
+
+Riccardo: https://anilist.co/user/xDevily
