@@ -1,42 +1,41 @@
-# LISTA DELLE LISTE
-## degli Anilisti
+## Anilisti
 
-Xemnas: https://anilist.co/user/Xemnas/
+[Xemnas](https://anilist.co/user/Xemnas/)
 
-LAEM il Senza Nome: https://anilist.co/user/LAEM/
+[LAEM](https://anilist.co/user/LAEM/) il Senza Nome
 
-Giuseppe Tartaglione: https://anilist.co/user/Darax/
+[Giuseppe Tartaglione](https://anilist.co/user/Darax/)
 
-Roccobot: https://anilist.co/user/Roccobot/
+[Roccobot](https://anilist.co/user/Roccobot/)
 
-Alexander: https://anilist.co/user/Kiritsugu/
+[Alexander](https://anilist.co/user/Kiritsugu/)
 
-Abaddon: https://anilist.co/user/abaddon/
+[Abaddon](https://anilist.co/user/abaddon/)
 
-Sora: https://anilist.co/user/gyrthil/
+[Sora](https://anilist.co/user/gyrthil/)
 
-Luca Colico: https://anilist.co/user/zLeSshuhn/
+[Luca Colico](https://anilist.co/user/zLeSshuhn/)
 
-Alessandro: https://anilist.co/user/Eru95/
+[Alessandro](https://anilist.co/user/Eru95/)
 
-Giuseppe: https://anilist.co/user/Giubs/
+[Giuseppe](https://anilist.co/user/Giubs/)
 
-Simone Lombardo: https://anilist.co/user/simonelombardo/
+[Simone Lombardo](https://anilist.co/user/simonelombardo/)
 
-Leonardo Colico: https://anilist.co/user/leonardocolico/
+[Leonardo Colico](https://anilist.co/user/leonardocolico/)
 
-Benny: https://anilist.co/user/Ggwppino/
+[Benny](https://anilist.co/user/Ggwppino/)
 
-Andrea D.: https://anilist.co/user/akaDry/
+[Andrea D.](https://anilist.co/user/akaDry/)
 
-Hiro: https://anilist.co/user/CrafterHiro/
+[Hiro](https://anilist.co/user/CrafterHiro/)
 
-Tuxdere: https://anilist.co/user/tuxdere
+[Tuxdere](https://anilist.co/user/tuxdere/)
 
-Merliin: https://anilist.co/user/Merliin/
+[Merliin](https://anilist.co/user/Merliin/)
 
-Betta: https://anilist.co/user/Betta
+[Betta](https://anilist.co/user/Betta/)
 
-Mattia: https://anilist.co/user/pagia/
+[Mattia](https://anilist.co/user/pagia/)
 
-Riccardo: https://anilist.co/user/xDevily
+[Riccardo](https://anilist.co/user/xDevily/)
