@@ -1,3 +1,6 @@
+# LISTA DELLE LISTE
+## degli Anilisti
+
 Xemnas: https://anilist.co/user/Xemnas/
 
 LAEM il Senza Nome: https://anilist.co/user/LAEM/
