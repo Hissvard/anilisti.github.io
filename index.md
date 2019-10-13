@@ -2,7 +2,7 @@
 
 [Xemnas](https://anilist.co/user/Xemnas/)
 
-[LAEM](https://anilist.co/user/LAEM/) il Senza Nome
+[LAEM](https://anilist.co/user/LAEM/) 
 
 [Giuseppe Tartaglione](https://anilist.co/user/Darax/)
 
@@ -39,3 +39,7 @@
 [Mattia](https://anilist.co/user/pagia/)
 
 [Riccardo](https://anilist.co/user/xDevily/)
+
+[Mattia Bacon](https://anilist.co/user/Paninozz0/)
+
+[Ale](https://anilist.co/user/Ryuen/)
