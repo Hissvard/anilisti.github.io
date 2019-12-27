@@ -43,3 +43,5 @@
 [Mattia Bacon](https://anilist.co/user/Paninozz0/)
 
 [Ale](https://anilist.co/user/Ryuen/)
+
+[Lorenzo](https://anilist.co/user/Loren03)
