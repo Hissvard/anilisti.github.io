@@ -45,3 +45,7 @@
 [Ale](https://anilist.co/user/Ryuen/)
 
 [Lorenzo](https://anilist.co/user/Loren03)
+
+[Andrian](https://anilist.co/user/Allanon/)
+
+[Cloud Wild](https://anilist.co/user/CloudWild)
